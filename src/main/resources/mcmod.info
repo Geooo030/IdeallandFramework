@@ -1,8 +1,8 @@
 [
 {
-  "modid": "untitled",
-  "name": "Idealland Framework",
-  "description": "A modding framework presented by Idealland.",
+  "modid": "geomod",
+  "name": "geo的摩尔",
+  "description": "欢迎来到Geo的开发mod",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://www.mcmod.cn/class/2421.html",
